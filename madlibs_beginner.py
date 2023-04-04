@@ -14,6 +14,3 @@ print("Ignore the impending AI takeover which will lead to " + noun_person + " b
 print(noun_person + " makes JAVASCRIPT frappes for the robots. He is not good at programming in Javascript so the robots " + verb + " him.")
 print(noun_person + " also makes PYTHON fries. He is very good at programming in python so the robots " + verb2 + " him.")
 print("Overall, " + noun_person + " makes the robots " + adj2 + ", so " + noun_person + " lives to see another day, maybe.")
-#issue during run @ 4/4/2023 @ 12:24AM : need to add a prompt so user knows when and what to type.
-#issue during run @ 4/4/2023 @ 12:41AM : used the wrong adj variable.
-#issue during run @ 4/4/2023 @ 12:46AM : forgot space before "Learning" string.
